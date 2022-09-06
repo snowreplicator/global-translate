@@ -1,0 +1,3 @@
+Bundle-SymbolicName: global-translate-ru
+Bundle-Version: 1.0.0
+Export-Package: com.snowreplicator.global.translate.ru
