@@ -7,7 +7,3 @@ compileJava {
 dependencies {
     compileOnly group: "com.liferay.portal", name: "release.portal.api"
 }
-
-configurations {
-    jar.archiveName = jar.baseName + '.jar'
-}
